@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![yeheun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyeheun&show_icons=true&theme=cobalt)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngus1691)](https://solved.ac/yeheun0212/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeheun0212)](https://solved.ac/yeheun0212/)
 
 # 💪 Skills
 ## Strong
